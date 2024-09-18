@@ -1,1 +1,3 @@
 #bm1-reg-30
+#bm1-qa-us
+#vm1-qa-us-private
